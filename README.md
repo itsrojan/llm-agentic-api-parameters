@@ -1,5 +1,6 @@
 # llm-agentic-api-parameters
-Assignment: Exploring LLM API Parameters in Python
+
+(Spring 2025 LLMs and Agentic Systems Assignment 2)
 
 ## Objective:
 
